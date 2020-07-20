@@ -4,3 +4,8 @@ export interface ResponseResult {
     message: string
     [key: string]: any
 }
+
+// REQ-1225
+export interface Contract {
+    id: string
+}
