@@ -9,3 +9,8 @@ export interface ResponseResult {
 export interface Contract {
     id: string
 }
+
+// REQ-2236
+export interface Seal {
+    id: string
+}
