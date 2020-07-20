@@ -20,7 +20,7 @@ export interface Seal {
     id: string
 }
 
-// REQ-3500
+// REQ-3500 from Shared
 export interface Company {
     id: string
 }
